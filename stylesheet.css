@@ -1,0 +1,55 @@
+img {
+	left: 31%;
+	right: 70%;
+	margin-top: 25px;
+	position: relative;
+}
+
+ul {
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	position: fixed;
+	margin-right: 20px;
+	top: 0;
+	width: 100%;
+
+}
+
+li {
+	float:left;
+	padding: 0;
+}
+
+li a {
+	display: block;
+	color: grey;
+	padding: 2px 4px;
+	margin: 0;
+	text-decoration: none;
+	text-align: center;
+}
+
+.active {
+	color: white;
+}
+
+.search {
+	position: relative;
+	margin-top: 25px;
+	margin-left: 400px;
+	margin-right: 100px;
+}
+
+.buttons{
+	margin-left: 475px;
+	margin-right: 40px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+
+
